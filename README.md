@@ -2,7 +2,7 @@
 <html>
   <head>
      computer science 
-    <body>
+    
       <h1>
         section A
       </h1>
@@ -10,6 +10,8 @@
         section B
       
       </h2>
+
+    <body>
     Hello everyone today is the first day of feburary
     </body>
     
